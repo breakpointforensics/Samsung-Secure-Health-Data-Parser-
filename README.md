@@ -39,7 +39,7 @@ Command-Line Mode
 For more technical users, the command-line mode provides an efficient way to run the tool as part of larger forensic workflows. Use the following command:
 
 
-_python samsung_secure_health_data_parser.py <db_path> <output_path>_
+_python SHealth_DB_Parser.pyw <db_path> <output_path>_
 
 Or launch the GUI by executing the program with no arguments.
 ________________________________________
